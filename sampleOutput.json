@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "Detecting Dyson Sphere Scale Civilizations When They Migrate to New Stars | NextBigFuture.com",
+      "description": "A researcher makes the case that in cosmic scale terms, it is a very fast transition from having the start of intelligence and technology to becoming a Dyson",
+      "url": "https://www.nextbigfuture.com/2023/08/detecting-dyson-sphere-scale-civilizations-when-they-migrate-to-new-stars.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-26-at-8.01.29-AM.jpg",
+      "publishedAt": "2023-08-26T15:30:30Z",
+      "content": "A researcher makes the case that in cosmic scale terms, it is a very fast transition from having the start of intelligence and technology to becoming a Dyson sphere scale civilization. A Dyson Swarm … [+3439 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "James Ashton",
+      "title": "Arm: The powerful technology hidden in every iPhone – and all around you",
+      "description": "Arm has achieved indispensable status: 13 million software engineers write code that runs on its chips, and it sits at the heart of the iPhone while remaining largely in the background. Now it is coming into public view with a planned blockbuster public listi…",
+      "url": "http://www.independent.co.uk/tech/arm-apple-iphone-ipad-chip-listing-book-b2397205.html",
+      "urlToImage": "https://static.independent.co.uk/2023/08/25/11/GettyImages-72955624.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-08-26T09:00:00Z",
+      "content": "Apple is the most recognisable consumer brand of the age, an electronics juggernaut whose phones and computers redefined their categories and crushed the competition. But world-beating success has be… [+614 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": null,
+      "title": "The Verge",
+      "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+      "url": "http://www.theverge.com/",
+      "urlToImage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+      "publishedAt": "2023-08-25T16:52:27.8119189Z",
+      "content": "9to5Mac reports that the iPhone 15 Pro wont come in a gold option. Instead, the publication says you can expect space black, silver, a new gray that embraces the natural color of titanium, and a dark… [+279 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Mark Davis",
+      "title": "Newsweek",
+      "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+      "url": "https://www.newsweek.com/",
+      "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+      "publishedAt": "2023-03-01T12:07:28.8517009Z",
+      "content": null
+    }
+  ]
+}
